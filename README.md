@@ -24,25 +24,33 @@ Always open to **collaboration, innovation, and continuous learning** 🚀
 
 ---
 
-## 🚀 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
-### 🧪 Automation Tools  
-Selenium • Cypress • Playwright • Appium • REST Assured
+🧪 Automation Tools
 
-### 🧩 Frameworks  
-BDD (Cucumber) • POM • TestNG • JUnit • Mocha • Jest
+🟩 Selenium  •  🔵 Cypress  •  🎭 Playwright  •  📱 Appium  •  🌐 REST Assured
 
-### 🔗 API Testing  
-Postman • Swagger • REST Client (VSCode) • OAuth • Schema Validation
+🧩 Frameworks
 
-### 🤖 AI & Modern Tech  
-AI Agents • GitHub Copilot • MCP Server • Prompt Engineering
+🌱 BDD (Cucumber)  •  🧱 Page Object Model (POM)  •  🧪 TestNG  •  🔰 JUnit  •  ☕ Mocha  •  🧷 Jest
+📊 Data-Driven Frameworks  •  🧩 Hybrid Automation Frameworks  •  🔧 TestNG-based Frameworks
 
-### ⚙️ CI/CD & DevOps  
-Git • GitHub Actions • Jenkins • Docker • Maven • Node.js
+🔗 API Testing
 
-### 🧑‍💻 Languages  
-Java • JavaScript • TypeScript • Python • SQL • JSON • YAML • XML
+📬 Postman  •  📘 Swagger  •  💻 REST Client (VSCode)  •  🔐 OAuth  •  📑 Schema Validation
+🌐 REST Assured
+
+🤖 AI & Modern Tech
+
+🤖 AI Agents  •  🧠 GitHub Copilot  •  🛰 MCP Server  •  ✍️ Prompt Engineering
+
+⚙️ CI/CD & DevOps
+
+🔗 Git  •  ⚡ GitHub Actions  •  🛠 Jenkins  •  🐳 Docker  •  🔥 Maven  •  🟨 Node.js
+
+💻 Languages
+
+☕ Java  •  🟨 JavaScript  •  🔵 TypeScript  •  🐍 Python  •  🗄 SQL  •  📄 JSON  •  📘 YAML  •  🧾 XML
 
 ---
 
