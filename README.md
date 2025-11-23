@@ -89,13 +89,11 @@ Explore all repositories on **[GitHub](https://github.com/mvsaran)** 🚀
 
 ---
 
+
 ## 📊 GitHub Stats & Metrics
 
-<div align="center">
+![GitHub Metrics](https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
 
-![Saran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&theme=tokyonight)
 
 </div>
 
