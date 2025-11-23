@@ -7,14 +7,17 @@ on:
   push:
     branches: ["main"]
 
+permissions:
+  contents: write    # ✅ allow committing github-metrics.svg
+
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITMETRICS }}   # Use your secret name
+          token: ${{ secrets.GITMETRICS }}   # your secret name
 
           # Output SVG file
           filename: github-metrics.svg
