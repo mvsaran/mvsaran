@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=Saran%20Kumar%20—%20SDET&fontSize=40&fontColor=00E6FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=Saran%20Kumar%20—%20SSDET&fontSize=40&fontColor=00E6FF&animation=fadeIn"/>
 </p>
 
 <div align="center">
@@ -25,13 +25,12 @@
 [![Mail](https://img.shields.io/badge/Email-FF3B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvsarankumar@gmail.com)
 
 ---
-
 </div>
 
 ## 🚀 Technical Scope Overview
 
 | Category | Tools & Skills |
-|---------|---------------|
+|---------|----------------|
 | **Automation** | Selenium • Cypress • Playwright • Appium |
 | **AI & Next Gen** | AI Agents • MCP Server • Intelligent Automation |
 | **Frameworks** | POM • BDD (Cucumber) • Modular • Hybrid |
@@ -44,40 +43,100 @@
 ## 📊 Live GitHub Metrics (Auto-Updated)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg" width="88%">
+<img src="https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg" width="88%" alt="GitHub metrics dashboard">
+</div>
+
+---
+
+## 📈 GitHub Stats (Light & Dark Aware)
+
+<div align="center">
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true" 
+    alt="Saran's GitHub stats" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true" 
+    alt="Top languages" />
+</picture>
+
+</div>
+
+---
+
+## 📂 Highlighted Repositories (Auto Cards)
+
+<div align="center">
+
+  <a href="https://github.com/mvsaran/Appium-MCP-AI-Driven-Mobile-Automation-on-Android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Appium-MCP-AI-Driven-Mobile-Automation-on-Android&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/mvsaran/Selenium-MCP-Natural-Language-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Selenium-MCP-Natural-Language-Automation&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/mvsaran/AI-Augmented-Cypress-E2E-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=AI-Augmented-Cypress-E2E-Framework&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/mvsaran/Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven&theme=tokyonight&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+## 🐍 Animated Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-light.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
 ## 🧪 Active Focus Areas
 
-- LLM-Driven Test Automation & Autonomy  
-- Playwright + Cypress Hybrid Architecture  
-- AI-Augmented Validation Pipelines  
+- LLM-driven test automation & autonomy  
+- Playwright + Cypress hybrid architecture  
+- AI-augmented validation pipelines  
 - Enterprise-grade parallel execution frameworks  
-
----
-
-## ⭐ Featured Projects
-
-| Project | Domain | Status |
-|--------|--------|--------|
-| 🔹 AI-Augmented Cypress Framework | Web Automation + AI | 🚀 Active |
-| 🔹 MCP-Driven Appium Framework | Mobile + NLP Execution | ⚙️ Building |
-| 🔹 Selenium + Docker Grid Suite | CI Ready Architecture | ✔ Completed |
-| 🔹 API Contract Validation Suite | Healthcare Systems | 🚧 Extending |
-
-📌 Explore Projects → **https://github.com/mvsaran**
 
 ---
 
 ## 💡 Engineering Principles
 
-⚙ Test for Future — Not Today
-🧠 Automate with Intent — Not Blind Coverage
-🚀 Design for Scale — Optimize for Feedback Speed
-💡 Quality = Reliability + Trust + Observability
-
+```
+⚙ Test for the Future — Not Just Today  
+🧠 Automate with Intent — Not Blind Coverage  
+🚀 Design for Scale — Optimize for Feedback Speed  
+💡 Quality = Reliability + Trust + Observability  
+```
 
 ---
 
@@ -91,6 +150,6 @@ Let's architect the future of testing — with intelligence. 🚀
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000&height=80&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=22&fontColor=00E6FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=22&fontColor=00E6FF"/>
 
 </div>
