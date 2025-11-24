@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=Saran%20Kumar%20—%20SSDET&fontSize=40&fontColor=00E6FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=Saran%20Kumar&fontSize=40&fontColor=00E6FF&animation=fadeIn"/>
 </p>
 
 <div align="center">
