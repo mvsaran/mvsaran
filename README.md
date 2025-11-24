@@ -57,7 +57,7 @@ Always open to **collaboration**, **innovation**, and **continuous learning** �
 - 🔥 Strengthening **performance testing** with JMeter  
 
 ---
-## ![GitHub Metrics]
+## GitHub Metrics
 
 (https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
 
@@ -78,18 +78,22 @@ I’m open to contributions and discussions around:
 ## 📂 Featured Projects
 
 ### 🌟 **Selenium Projects**
-- 🔹 Yatra Lowest Fare Automation  
-- 🔹 Selenium Hybrid Framework with Docker, Grid & Extent Reports  
+- 🔹 Appium-MCP-AI-Driven-Mobile-Automation-on-Android 
+- 🔹 Selenium-MCP-Natural-Language-Automation
+- 🔹 Selenium Hybrid Framework with Docker, Grid & Extent Reports
+- 🔹 EMI-Calculator-Web-Automation-Data-Extraction 
 
 ### ⚡ **Cypress Projects**
 - 🔹 AI-Augmented Cypress E2E Framework  
 - 🔹 ClearTrip Visual Regression – Cypress  
-- 🔹 Cypress API Testing (Intercept + OAuth + Schema Validation)  
+- 🔹 Cypress-AI-Driven-Testing-with-cy.prompt 
 - 🔹 Cypress E2E Framework with GitHub Actions  
 
 ### 🎭 **Playwright Projects**
 - 🔹 Playwright Automation Framework (JS/TS)  
-- 🔹 AI-Powered Playwright + MCP Server Framework  
+- 🔹 AI-Powered Playwright + MCP Server Framework
+- 🔹 Playwright-Test-Automation-with-Intelligent-Agents
+- 🔹 Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven
 
 Explore all repositories on **[GitHub](https://github.com/mvsaran)** 🚀
 
