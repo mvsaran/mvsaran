@@ -73,3 +73,24 @@
 
 ## 💡 Engineering Principles
 
+⚙ Test for Future — Not Today
+🧠 Automate with Intent — Not Blind Coverage
+🚀 Design for Scale — Optimize for Feedback Speed
+💡 Quality = Reliability + Trust + Observability
+
+
+---
+
+<div align="center">
+
+### ⭐ If My Work Inspires You — Consider Starring a Repository
+
+Let's architect the future of testing — with intelligence. 🚀  
+
+📫 Connect → [LinkedIn](https://www.linkedin.com/in/saran-kumar-a69775215)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000&height=80&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=22&fontColor=00E6FF"/>
+
+</div>
