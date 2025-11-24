@@ -40,14 +40,6 @@
 
 ---
 
-## 📊 Live GitHub Metrics (Auto-Updated)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg" width="88%" alt="GitHub metrics dashboard">
-</div>
-
----
-
 ## 📈 GitHub Stats (Light & Dark Aware)
 
 <div align="center">
