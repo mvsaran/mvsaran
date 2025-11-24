@@ -1,131 +1,75 @@
-# 👋 Hi, I'm Saran Kumar
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=Saran%20Kumar%20—%20SDET&fontSize=40&fontColor=00E6FF&animation=fadeIn"/>
+</p>
 
 <div align="center">
 
-### 💻 Senior SDET | Test Automation Engineer | Quality Advocate
+### 💼 Senior SDET | AI-Augmented Automation Engineer | Quality Advocate
 
-**Passionate about building scalable and intelligent test automation solutions**
+🔹 Engineering intelligent, scalable, and production-ready automation systems  
+🔹 Blending **AI + Automation + Observability** to redefine modern testing  
+
+<br/>
+
+<!-- Modern Badges -->
+<img src="https://img.shields.io/badge/Automation-SDET-00E6FF?style=for-the-badge&logo=robot-framework&logoColor=black"/> 
+<img src="https://img.shields.io/badge/AI%20Testing-MCP%20Server-9A00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-00C853?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-E2E%20Testing-00C4FF?style=for-the-badge&logo=cypress&logoColor=white"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-kumar-a69775215)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvsaran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Mail](https://img.shields.io/badge/Email-FF3B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvsarankumar@gmail.com)
 
 ---
 
 </div>
 
-## 🔍 About Me
+## 🚀 Technical Scope Overview
 
-I'm a passionate and **results-driven SDET** with hands-on experience in designing, developing, and maintaining scalable **UI, API, Mobile, and AI-driven automation frameworks**. I love solving complex testing challenges and continuously evolve with new tools, patterns, and technologies.
-
-> **"Quality is not just a checkpoint — it's a mindset."**
-
-Always open to **collaboration**, **innovation**, and **continuous learning** 🚀
-
----
-
-## 🚀 Tech Stack & Tools
-
-### 🧪 **Automation Tools**
-🟩 Selenium • 🔵 Cypress • 🎭 Playwright • 📱 Appium • 🌐 REST Assured
-
-### 🧩 **Frameworks**
-🌱 **BDD (Cucumber)** • 🧱 **Page Object Model (POM)** • 🧪 **TestNG** • 🔰 **JUnit** • ☕ **Mocha** • 🧷 **Jest**  
-📊 **Data-Driven Frameworks** • 🧩 **Hybrid Automation Frameworks** • 🔧 **TestNG-based Custom Frameworks**
-
-### 🔗 **API Testing**
-📬 Postman • 📘 Swagger • 💻 REST Client (VSCode) • 🔐 OAuth • 📑 Schema Validation  
-🌐 **REST Assured**
-
-### 🤖 **AI & Modern Tech**
-🤖 AI Agents • 🧠 GitHub Copilot • 🛰 MCP Server • ✍️ Prompt Engineering
-
-### ⚙️ **CI/CD & DevOps**
-🔗 Git • ⚡ GitHub Actions • 🛠 Jenkins • 🐳 Docker • 🔥 Maven • 🟨 Node.js
-
-### 💻 **Languages**
-☕ Java • 🟨 JavaScript • 🔵 TypeScript • 🐍 Python • 🗄 SQL • 📄 JSON • 📘 YAML • 🧾 XML
+| Category | Tools & Skills |
+|---------|---------------|
+| **Automation** | Selenium • Cypress • Playwright • Appium |
+| **AI & Next Gen** | AI Agents • MCP Server • Intelligent Automation |
+| **Frameworks** | POM • BDD (Cucumber) • Modular • Hybrid |
+| **API & Contract Testing** | REST Assured • Swagger • Schema Validation |
+| **DevOps & CI/CD** | GitHub Actions • Jenkins • Docker |
+| **Core Languages** | Java • JavaScript • TypeScript • Python |
 
 ---
 
-## 🧪 Currently Practicing
-
-- 🎯 Deep-diving into **Playwright** with JavaScript/TypeScript  
-- 🤖 Integrating **AI agents** into intelligent test flows  
-- 🏗 Building **modular and scalable frameworks**  
-- 🌐 Applying **real-world API testing** & contract validation  
-- 🔥 Strengthening **performance testing** with JMeter  
-
----
-## GitHub Metrics
-
-![GitHub Metrics](https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
-
----
-
-
-## 🤝 Let's Collaborate
-
-I’m open to contributions and discussions around:
-
-- 🚀 Automation Framework Architecture  
-- 🤖 AI-Driven Testing & Autonomous Agents  
-- 🔧 Open-source QA Tools  
-- ✍️ Technical Writing & Knowledge Sharing  
-
----
-
-## 📂 Featured Projects
-
-### 🌟 **Selenium Projects**
-- 🔹 Appium-MCP-AI-Driven-Mobile-Automation-on-Android 
-- 🔹 Selenium-MCP-Natural-Language-Automation
-- 🔹 Selenium Hybrid Framework with Docker, Grid & Extent Reports
-- 🔹 EMI-Calculator-Web-Automation-Data-Extraction 
-
-### ⚡ **Cypress Projects**
-- 🔹 AI-Augmented Cypress E2E Framework  
-- 🔹 ClearTrip Visual Regression – Cypress  
-- 🔹 Cypress-AI-Driven-Testing-with-cy.prompt 
-- 🔹 Cypress E2E Framework with GitHub Actions  
-
-### 🎭 **Playwright Projects**
-- 🔹 Playwright Automation Framework (JS/TS)  
-- 🔹 AI-Powered Playwright + MCP Server Framework
-- 🔹 Playwright-Test-Automation-with-Intelligent-Agents
-- 🔹 Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven
-
-Explore all repositories on **[GitHub](https://github.com/mvsaran)** 🚀
-
----
-
-## 💡 Key Principles
-
-```
-🎯 Quality First → Test Everything  
-🔄 Continuous Learning → Stay Updated  
-🤝 Collaboration → Share Knowledge  
-💻 Clean Code → Maintainability Matters  
-🚀 Innovation → Embrace New Tools  
-```
-
----
-
-## 🎓 My Philosophy
-
-> In today's rapidly evolving tech world, **QA is not just about finding bugs — it's about enabling trust, stability, and confidence in software delivery.**  
-Every test is a step toward excellence. Every framework is a foundation for future success.
-
----
+## 📊 Live GitHub Metrics (Auto-Updated)
 
 <div align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-**Let’s build better tests, together. 🚀**
-
-[🔗 LinkedIn](https://www.linkedin.com/in/saran-kumar-a69775215) •  
-[💻 GitHub](https://github.com/mvsaran) •  
-[📧 Email](mailto:mvsarankumar@gmail.com)
-
+<img src="https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg" width="88%">
 </div>
+
+---
+
+## 🧪 Active Focus Areas
+
+- LLM-Driven Test Automation & Autonomy  
+- Playwright + Cypress Hybrid Architecture  
+- AI-Augmented Validation Pipelines  
+- Enterprise-grade parallel execution frameworks  
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Domain | Status |
+|--------|--------|--------|
+| 🔹 AI-Augmented Cypress Framework | Web Automation + AI | 🚀 Active |
+| 🔹 MCP-Driven Appium Framework | Mobile + NLP Execution | ⚙️ Building |
+| 🔹 Selenium + Docker Grid Suite | CI Ready Architecture | ✔ Completed |
+| 🔹 API Contract Validation Suite | Healthcare Systems | 🚧 Extending |
+
+📌 Explore Projects → **https://github.com/mvsaran**
+
+---
+
+## 💡 Engineering Principles
+
