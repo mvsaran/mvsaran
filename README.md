@@ -82,43 +82,6 @@
 
 ---
 
-## 📂 Highlighted Repositories (Auto Cards)
-
-<div align="center">
-
-  <a href="https://github.com/mvsaran/Appium-MCP-AI-Driven-Mobile-Automation-on-Android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Appium-MCP-AI-Driven-Mobile-Automation-on-Android&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/mvsaran/Selenium-MCP-Natural-Language-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Selenium-MCP-Natural-Language-Automation&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/mvsaran/AI-Augmented-Cypress-E2E-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=AI-Augmented-Cypress-E2E-Framework&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/mvsaran/Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mvsaran&repo=Playwright-MCP-Story-Test-Automation-Browser-Extension-Driven&theme=tokyonight&hide_border=true" />
-  </a>
-
-</div>
-
----
-
-## 🐍 Animated Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-light.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mvsaran/mvsaran/output/snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## 🧪 Active Focus Areas
 
