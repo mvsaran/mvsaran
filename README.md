@@ -59,7 +59,7 @@ Always open to **collaboration**, **innovation**, and **continuous learning** ðŸ
 ---
 ## GitHub Metrics
 
-(https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
 
 ---
 
