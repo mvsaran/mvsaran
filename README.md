@@ -57,6 +57,12 @@ Always open to **collaboration**, **innovation**, and **continuous learning** �
 - 🔥 Strengthening **performance testing** with JMeter  
 
 ---
+## ![GitHub Metrics]
+
+(https://raw.githubusercontent.com/mvsaran/mvsaran/main/github-metrics.svg)
+
+---
+
 
 ## 🤝 Let's Collaborate
 
