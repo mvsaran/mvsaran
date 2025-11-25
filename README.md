@@ -1,6 +1,6 @@
-# Saran Kumar
-
 <div align="center">
+
+# 🚀 Saran Kumar
 
 **Senior SDET | AI-Augmented Automation Engineer | Quality Advocate**
 
@@ -105,6 +105,6 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20AI&fontSize=20&fontColor=fff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=24&fontColor=ffffff)
 
 </div>
