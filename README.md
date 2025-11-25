@@ -45,31 +45,14 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 <div align="center">
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true&theme=tokyonight" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true&theme=default" 
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&hide_border=true" 
-    alt="Saran's GitHub stats" />
-</picture>
+<a href="https://github.com/mvsaran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 <br/><br/>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true&theme=tokyonight" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true&theme=default" 
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&hide_border=true" 
-    alt="Top languages" />
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvsaran&theme=tokyonight&hide_border=true)](https://github.com/mvsaran)
 
 </div>
 
