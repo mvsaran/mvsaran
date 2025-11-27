@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Saran Kumar
+#  Saran Kumar
 
 **Senior SDET | AI-Augmented Automation Engineer | Quality Advocate**
 
